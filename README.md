@@ -11,3 +11,4 @@ Watch tutorial on Youtube.
 
 1. Open index.html in your browser...
 2. Go to the console and type `console.log('Hello World!');
+3. Press enter and see the magic happen!
